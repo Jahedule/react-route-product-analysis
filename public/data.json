@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name": "Maria",
+        "img": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Best food. I will Recommended for food lovers.",
+        "rating": "4"
+    },
+    {
+        "id":2,
+        "name": "Michal",
+        "img": "https://images.pexels.com/photos/937481/pexels-photo-937481.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "This resturant is so preety. I suggest them who are love food.",
+        "rating": "5"
+    },
+    {
+        "id":3,
+        "name": "Olive",
+        "img": "https://images.pexels.com/photos/1065084/pexels-photo-1065084.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Like it. They serve delicious food.",
+        "rating": "4.5"
+    },
+    {
+        "id":4,
+        "name": "Elijah",
+        "img": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Yummy. Organic food",
+        "rating": "5"
+    },
+    {
+        "id":5,
+        "name": "William",
+        "img": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Online delivery is not good.",
+        "rating": "3.6"
+    },
+    {
+        "id":6,
+        "name": "James",
+        "img": "https://images.pexels.com/photos/874158/pexels-photo-874158.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "title": "This resturant is perfect for arranging meeting. But rent price is high",
+        "rating": "4"
+    }
+]
